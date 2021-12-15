@@ -1,5 +1,5 @@
-# keen-kelp-analysis
-A statistical analysis of changes in kelp population over time using data collected by the Kelp Ecosystem Ecology Network (KEEN).
+# keen-kelp-poisson-analysis
+A statistical analysis and modeling of changes in kelp population over time as a Poisson process using data collected by the Kelp Ecosystem Ecology Network (KEEN).
 
 # Notes
 This paper and R notebook was produced as part of an assignment in my Master's degree program. It's solely an exercise in statistical hypothesis testing. Feedback is welcome.
